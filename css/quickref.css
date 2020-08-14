@@ -166,6 +166,14 @@
     color: ForestGreen;
 }
 
+#section-exploration, #section-exploration .item-icon {
+    background-color: yellowgreen;
+    border-color: yellowgreen;
+}
+#section-exploration .text {
+    color: yellowgreen;
+}
+
 
 /* ------------------------------------------------------------------------- */
 /* Page container */
